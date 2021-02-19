@@ -1,0 +1,26 @@
+# Definition
+Cost Function - A measure of how wrong the model is to estimate the relationship between X and y
+Gradient Descent - A first-order iterative optimization algo for finding a local min by moving in the direction of steepest descent, the gradient. We use it to update model parameters.
+
+# Intuition
+- Gradient: 
+Q: What is Gradient?
+A: https://www.cnblogs.com/shine-lee/p/11715033.html#%E6%A2%AF%E5%BA%A6
+
+Q: Why the oposite direction of gradient is the steepest descent
+A: https://zhuanlan.zhihu.com/p/24913912
+   https://zhuanlan.zhihu.com/p/33260455
+
+- Cost Function:
+Q: Why cost function of Linear Regression is like that?
+A: https://zhuanlan.zhihu.com/p/67690717
+
+Q: How to choose cost function?
+A: https://zhuanlan.zhihu.com/p/77686118
+
+Q: What's the relationship between cost function and MLE?
+A: https://zhuanlan.zhihu.com/p/67690717
+   https://zhuanlan.zhihu.com/p/141463544
+
+Q: MLE vs. MAP?
+A: https://zhuanlan.zhihu.com/p/32480810
